@@ -7,3 +7,8 @@
 	path = OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
 	branch = 11.0
+
+[submodule "OCA/pos"]
+	path = OCA/pos
+	url = git@github.com:OCA/pos.git
+	branch = 11.0
